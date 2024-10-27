@@ -12,5 +12,8 @@
 
 # 打卡内容
 在虚拟机中：https://studio.intern-ai.org.cn/user/account
-第一天：
+第一关：
 第2关 L0G2000 Python 基础知识 [任务](https://github.com/InternLM/Tutorial/blob/camp4/docs/L0/Python/task.md)、[文档](https://github.com/InternLM/Tutorial/tree/camp4/docs/L0/Python)、视频
+
+
+第三关： git
